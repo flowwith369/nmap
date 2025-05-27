@@ -1,4 +1,3 @@
 # nmap
 Local Network Port Scanning Using Nmap
-in this you will get an brief intro about nmap what is it and why we use it!!
-i cover Practical also from that you can get more understanding of how an nmap works 
+"Local Network Port Scanning Using Nmap" provides a brief introduction to Nmap—what it is and why it's used. This document also includes practical examples to help you better understand how Nmap works in real scenarios
